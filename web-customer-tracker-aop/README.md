@@ -1,5 +1,5 @@
 **Objective:**
-           This project is an application skeleton for a  web customer tracker using Java, Spring MVC, hibernate and aspect oriented programming. This application demonstrated the the capabilities of spring MVC framework connecting to database with hibernate to make the application loosely coupled.
+           This project is an application skeleton for a  web customer tracker using Java, Spring MVC, hibernate and aspect oriented programming. This application demonstrates the capabilities of spring MVC framework connecting to database with hibernate to make the application loosely coupled.
 
 **Technology and Framework Used:**
           
